@@ -1,4 +1,4 @@
-### Luciano Barboza
+### Hello 😃
+My name is Luciano, from Argentina and:
 
-
-- 🌱 I’m currently learning web development in The Odin Project website.
+- 🌱 I’m learning web development in The Odin Project website.
